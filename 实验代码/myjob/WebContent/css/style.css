@@ -1,0 +1,54 @@
+@CHARSET "UTF-8";
+h1 {
+	font-family: Arial, sans-serif;
+	font-size: 30px;
+	color: #369;
+	padding-bottom: 4px;
+	border-bottom: 1px solid #999;
+} 
+table.imagetable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #999999;
+	border-collapse: collapse;
+	width:61.8%;
+}
+table.imagetable th {
+	background:#b5cfd2 url('cell-blue.jpg');
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #999999;
+}
+table.imagetable td {
+	
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #999999;
+}
+
+.mainArea{
+
+	width:100%;
+	text-align: center;
+}
+
+.mainMenu {
+	font-family: Arial, sans-serif;
+	font-size: 30px;
+	color: gray;
+	padding-bottom: 4px;	
+}
+
+.center{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+a{
+	text-decoration:none;
+	}
+background-image: url(images/image.jpg);

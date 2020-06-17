@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+	<default-config>
+		<property name="user">system</property>
+		<property name="password">Yy29360301</property>
+		<property name="driverClass">oracle.jdbc.driver.OracleDriver</property>
+		<property name="jdbcUrl">jdbc:oracle:thin:@DESKTOP-AKVM251:1521:ORACLE2</property>
+	</default-config> 
+</c3p0-config> 
